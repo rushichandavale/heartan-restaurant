@@ -45,6 +45,10 @@ const Footer = () => (
 
     <div className="footer__copyright">
       <p className="p__opensans">2022 Heartan. All Rights Reserved.</p>
+      <br></br>
+      <br></br>
+      <br></br>
+      <p className="p__cormorant">Made With ❤️ by Rushi Chandavale</p>
     </div>
   </div>
 );
